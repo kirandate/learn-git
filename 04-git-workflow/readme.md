@@ -1,2 +1,4 @@
-add git workflow
-c
+1. Make a directory
+```
+   mkdir test
+```
