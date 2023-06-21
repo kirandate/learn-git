@@ -2,7 +2,7 @@ Git is a distributed version control system (VCS) widely used for tracking chang
 
 The importance of Git in software development can be attributed to several key factors:
 
-1. ##Version Control## : Git allows developers to manage and track changes made to their source code over time. It provides a complete history of revisions, enabling easy identification of who made specific changes, when they were made, and why. This makes it easier to collaborate with others, revert to previous versions, and understand the evolution of the codebase.
+1. **Version Control** : Git allows developers to manage and track changes made to their source code over time. It provides a complete history of revisions, enabling easy identification of who made specific changes, when they were made, and why. This makes it easier to collaborate with others, revert to previous versions, and understand the evolution of the codebase.
 
 2.Collaboration: Git facilitates collaboration among developers, regardless of their geographical location. Multiple developers can work on the same codebase simultaneously, independently making changes on their own branches. Git allows for efficient merging of these changes into a shared repository, ensuring that everyone's work is integrated smoothly.
 
