@@ -16,7 +16,7 @@ Now, let's say you attempt to merge the `f1` branch into `main` using the comman
 
 When Git detects the conflict, it modifies `file-1.txt` to highlight the conflicting sections. The file might look like this:
 
-``
+```
 <<<<<<< HEAD
 This is some content in the main branch.
 =======
