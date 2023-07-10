@@ -22,4 +22,4 @@ Useful for incorporating changes from one branch onto another while maintaining 
 Particularly helpful when working with short-lived feature branches.
 
 Git Rebase Flow:
-![image](https://github.com/morepriti131/learn-git/blob/main/18-rebase/rebase.drawio)
+![image](https://github.com/morepriti131/learn-git/blob/main/18-rebase/rebase%20workflow.png)
