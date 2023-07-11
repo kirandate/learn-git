@@ -17,3 +17,6 @@ The rules in the `.gitignore` file apply recursively, meaning they affect all di
 It's important to note that once a file is added to a Git repository, it will continue to be tracked even if later added to the `.gitignore` file. To stop tracking an already tracked file, you need to remove it from the staging and local repo
 
 By utilizing the `.gitignore` file, you can avoid cluttering your repository with irrelevant files and keep your version control system focused on the files that matter.
+
+
+"C:\Users\Suryansh Srivastava\OneDrive\Desktop\gitlab-63.webp"
