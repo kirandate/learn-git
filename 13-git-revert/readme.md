@@ -1,6 +1,6 @@
 We all make mistakes. One of the major advantage of using git is that we can roll back using simple git commands
 
-Suppose we have 4 lines added in a file with different commit id's we can run the below command to see the log
+Suppose we have 4 file with different commit id's we can run the below command to see the log
 ```
 git log --oneline
 ```
