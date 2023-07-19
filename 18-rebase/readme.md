@@ -20,3 +20,6 @@ Results in a linear commit history.
 Does not create a merge commit.
 Useful for incorporating changes from one branch onto another while maintaining a cleaner history.
 Particularly helpful when working with short-lived feature branches.
+
+Git Rebase Flow:
+![image](https://github.com/morepriti131/learn-git/blob/main/18-rebase/rebase%20workflow.png)
