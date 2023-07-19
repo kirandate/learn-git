@@ -4,4 +4,4 @@ _git cherry-pick_ is a command in Git that allows you to apply a specific commit
 
 To carry out git cherrypick you have to switch to the master branch and execute the command:
 ```
-git cherrypick <commit-id>
+git cherry-pick <commit-id>
