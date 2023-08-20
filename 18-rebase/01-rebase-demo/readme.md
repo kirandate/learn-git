@@ -16,7 +16,7 @@ To mimic this we will switch to our remote repo and add a new file to the main b
 we need to switch to the main branch and pull the changes from the remote repo
 
 ```
-git switch main && git pull origin/main
+git switch main && git pull origin main
 ```
 
 At this point if we run the command `git rebase f1` this will insert the commit id's in between the existing commits and when we try to push our code in the remote repo it will throw errors
@@ -24,7 +24,7 @@ At this point if we run the command `git rebase f1` this will insert the commit 
 To avoid that we need to switch to `f1 branch` and rebase the main
 
 ```
-git switch main && git rebase main
+git switch f1 && git rebase main
 ```
 
 Now we need to get these changes to the main branch as well, to achive that we need to switch to the `main branch` and rebase again
